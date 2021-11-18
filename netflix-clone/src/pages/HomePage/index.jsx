@@ -1,9 +1,14 @@
 import "./styles.css";
 
+// import components
+import { Banner } from '../../components/banner';
+import { Navbar } from '../../components/navbar';
+
 export const HomePage = () => {
   return (
     <div className="home-page">
-      <h1>Home Page</h1>
+      <Navbar />
+      <Banner />
     </div>
   );
 };
