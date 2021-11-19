@@ -1,0 +1,19 @@
+.media-list-container {
+  margin: 30px 50px;
+  padding: 0;
+  /* border: 2px solid blue; */
+}
+
+.media-list {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.media-list-title {
+  color: #e5e5e5;
+  font-weight: 700;
+  font-size: 1em;
+  margin: 0 0 10px 0;
+  padding: 0;
+}
