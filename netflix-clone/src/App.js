@@ -11,9 +11,9 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route exact path="/" element={<HomePage />}>
+        <Route exact path="/" element={<WhosWatchingPage />}>
         </Route>
-        <Route exact path="/ww" element={<WhosWatchingPage />}>
+        <Route exact path="/home" element={<HomePage />}>
         </Route>
         <Route exact path="/*" element={<h1>404</h1>}>
         </Route>
