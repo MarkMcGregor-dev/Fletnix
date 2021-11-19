@@ -1,0 +1,49 @@
+.banner {
+  background-image: url("../../images/banner-background.bmp");
+  /* border: 2px solid blue; */
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 75px;
+}
+
+/* .banner-image {
+  display: relative;
+  width: 100%;
+  background-size: cover;
+  overflow: hidden;
+} */
+
+.title-image {
+  width: 50%;
+}
+
+.description {
+  font-size: 1.5em;
+  font-weight: 500;
+  width: 40%;
+  /* border: 1px solid blue; */
+}
+
+.buttons {
+  display: flex;
+  justify-content: flex-start;
+  width: 40%;
+}
+
+.buttons p {
+  background-color: rgba(50, 50, 50, 0.7);
+  padding:  10px 40px;
+  border-radius: 5px;
+  font-size: 1.2em;
+  font-weight: 600;
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.buttons p:first-child {
+  background-color: white;
+  color: black;
+}
