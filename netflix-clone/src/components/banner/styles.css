@@ -1,6 +1,6 @@
 .banner {
   background-image: url("../../images/banner-background.bmp");
-  border: 2px solid blue;
+  /* border: 2px solid blue; */
   height: 100vh;
   background-size: cover;
   display: flex;
