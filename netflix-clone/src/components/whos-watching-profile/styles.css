@@ -1,0 +1,22 @@
+.whos-watching-profile {
+  color: white;
+  display: flex;
+  width: fit-content;
+  flex-direction: column;
+  justify-content: center;
+  /* border: 1px solid red; */
+}
+
+.profile-title {
+  color: gray;
+  line-height: 1.2em;
+  min-height: 1.8em;
+  text-align: center;
+  font-size: 1.3vw;
+  margin: 0.2em 0;
+  text-decoration: none;
+}
+
+.profile-image {
+  width: 10vw;
+}

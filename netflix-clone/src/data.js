@@ -20,3 +20,10 @@ export const MediaItems = [
   { id: 19, name: "The Good Place", image: "https://occ-0-1081-1722.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABWoDrGuCsWjgppqPmvWeuoBwN88iwPPmV-fwOSsku9XJZ_0sdLLB0hX2cJSP_HtO5YBfYbvZroc0Xi7OLVX-XV5EaYs.jpg?r=e01" },
   { id: 20, name: "Tiger King", image: "https://occ-0-1081-1722.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABbS5YyFl7TC0Q-bRlgQo81C3z-5OFssSZ_MM15KTahxLWXn8UkzlyPrVXZI8DKpmaK_H4A9Vq-WD8iU1hl4QZeD1XAETDLKcrUAt1ChvwAROrGSh0ei73FuCXO2JNbtn-Czk-fZFGuwSO-c8yHidfqUOrJ7I_G1dLSoscXmd8CBy6V96Z40gmiV1V8RTnae3oywy8fNgmpIuRU-LGmnA6HuzmbVV0u4x8sVE9bJ2Vu-aeAfLoF8v89ntEuh_vEyQBO6Vo8_AkHUTW7tjt9-rYpmwEVpqJBJ34uDfNznFcj5_ctc3gNikyvvYqbpb48HWHJH_uF2N7ikcww.jpg?r=c7b" }
 ];
+
+export const Profiles = [
+  { id: 1, name: "Alice", image: "https://occ-0-1081-1722.1.nflxso.net/dnm/api/v6/K6hjPJd6cR6FpVELC5Pd6ovHRSk/AAAABSJ7W5XG6vPqZ3BYA5Vw915CFrIdEIoM75asUq1rqaGoYH0vWt5sGe9V4jSoG2BPkBXSpTvbNuStKXe1-PpHf9w7tOwN.png?r=7a4" },
+  { id: 2, name: "Mark", image: "https://occ-0-1081-1722.1.nflxso.net/dnm/api/v6/K6hjPJd6cR6FpVELC5Pd6ovHRSk/AAAABee7E6yUL9YXw50wlfgK61Ha3qCRVj3QZirDK6qsBSqC3RZcp6E9K-SW_kxy0HAOAOKzZz89dKRomNd44tqsUY_zevp7.png?r=f6e" },
+  { id: 3, name: "Dora", image: "https://occ-0-1081-1722.1.nflxso.net/dnm/api/v6/K6hjPJd6cR6FpVELC5Pd6ovHRSk/AAAABSdDhmLG89acb6rHYbxdlywq5vY8EzduXrQyhtcjHFkhIOcV42COk9-49usjHoiXuM7WvODRTx-kAV4NZ8b51-zH-um2.png?r=535" },
+  { id: 4, name: "Bob", image: "https://occ-0-1081-1722.1.nflxso.net/dnm/api/v6/K6hjPJd6cR6FpVELC5Pd6ovHRSk/AAAABeUqbfriC_pGWtwTa1KOx-ZSiQYa7ltLkOuduGxY_GRRc41ugYJNGYHe4LNcmshST4qkRSENvcs2xFomPc0rtX8wq2NG.png?r=b97" }
+];
